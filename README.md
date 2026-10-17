@@ -36,7 +36,7 @@ Rather than generating new claims, PaperLens selects and organizes important sen
 
 ## Application Preview
 
-`assets/dashboard.png`
+![PaperLens Dashboard](assets/dashboard.png)
 
 ## NLP Pipeline
 
