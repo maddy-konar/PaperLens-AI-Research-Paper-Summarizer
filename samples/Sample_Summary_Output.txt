@@ -1,0 +1,17 @@
+This educational demonstration explores an extractive text summarizer for research papers. [p. 1]
+
+The system retrieves salient sentences from the document instead of generating new factual claims. [p. 1]
+
+Each selected sentence retains a page reference when a PDF is supplied. [p. 1]
+
+Automated summarization can provide a first-pass reading aid, but selected sentences should always be checked against the original source. [p. 1]
+
+Earlier graph-based methods model sentences as connected nodes and use their similarity to estimate importance. [p. 1]
+
+Selected sentences are sorted back into their original document order for readability. [p. 1]
+
+This educational prototype combines PDF parsing, TF-IDF features, sentence similarity, graph centrality, and redundancy-aware selection. [p. 2]
+
+Its main advantage is traceability because summary sentences can be checked in the original PDF. [p. 2]
+
+Keywords: sentences, pdf, sentence, document, summary, reference, text, similarity, graph, selected, original, importance
